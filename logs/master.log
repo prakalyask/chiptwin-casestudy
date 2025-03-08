@@ -1,0 +1,89 @@
+[20:53:04.11] Master MCU: Multi-Zone Temperature Controller initialized 
+[20:53:09.19] All sensors operational 
+[20:53:09.20] Cycle 1: Master polling all sensor zones...
+[20:53:09.20] Zone 1 - I2C Transaction: [Master] CMD_READ_TEMP to 0x3A
+[20:53:09.20] Zone 1 - I2C Transaction: [Slave 0x3A] Responding with temp data
+[20:53:09.20] Zone 1 - Packet CRC: Valid
+[20:53:09.20] Zone 1: PID Output: -220.7 (P=-220.0, I=0.5, D=0.2
+[20:53:09.20] Cycle 2: Master polling all sensor zones...
+[20:53:09.20] Zone 1 - I2C Transaction: [Master] CMD_READ_TEMP to 0x3A
+[20:53:09.20] Zone 1 - I2C Transaction: [Slave 0x3A] Responding with temp data
+[20:53:09.20] Zone 1 - Packet CRC: Valid
+[20:53:09.20] Zone 1: PID Output: -220.7 (P=-220.0, I=0.5, D=0.2
+[20:53:09.20] Cycle 3: Master polling all sensor zones...
+[20:53:09.20] Zone 1 - I2C Transaction: [Master] CMD_READ_TEMP to 0x3A
+[20:53:09.20] Zone 1 - I2C Transaction: [Slave 0x3A] Responding with temp data
+[20:53:09.20] Zone 1 - Packet CRC: Valid
+[20:53:09.20] Zone 1: PID Output: -220.7 (P=-220.0, I=0.5, D=0.2
+[20:53:09.20] Cycle 4: Master polling all sensor zones...
+[20:53:09.20] Zone 1 - I2C Transaction: [Master] CMD_READ_TEMP to 0x3A
+[20:53:09.20] Zone 1 - I2C Transaction: [Slave 0x3A] Responding with temp data
+[20:53:09.20] Zone 1 - Packet CRC: Valid
+[20:53:09.20] Zone 1: PID Output: -220.7 (P=-220.0, I=0.5, D=0.2
+[20:53:09.20] Cycle 5: Master polling all sensor zones...
+[20:53:09.20] Zone 1 - I2C Transaction: [Master] CMD_READ_TEMP to 0x3A
+[20:53:09.20] Zone 1 - I2C Transaction: [Slave 0x3A] Responding with temp data
+[20:53:09.20] Zone 1 - Packet CRC: Valid
+[20:53:09.20] Zone 1: PID Output: -220.7 (P=-220.0, I=0.5, D=0.2
+[20:53:09.20] Cycle 6: Master polling all sensor zones...
+[20:53:09.20] Zone 1 - I2C Transaction: [Master] CMD_READ_TEMP to 0x3A
+[20:53:09.20] Zone 1 - I2C Transaction: [Slave 0x3A] Responding with temp data
+[20:53:09.20] Zone 1 - Packet CRC: Valid
+[20:53:09.20] Zone 1: PID Output: -220.7 (P=-220.0, I=0.5, D=0.2
+[20:53:09.20] Cycle 7: Master polling all sensor zones...
+[20:53:09.20] Zone 1 - I2C Transaction: [Master] CMD_READ_TEMP to 0x3A
+[20:53:09.20] Zone 1 - I2C Transaction: [Slave 0x3A] Responding with temp data
+[20:53:09.20] Zone 1 - Packet CRC: Valid
+[20:53:09.20] Zone 1: PID Output: -220.7 (P=-220.0, I=0.5, D=0.2
+[20:53:09.20] Cycle 8: Master polling all sensor zones...
+[20:53:09.20] Zone 1 - I2C Transaction: [Master] CMD_READ_TEMP to 0x3A
+[20:53:09.20] Zone 1 - I2C Transaction: [Slave 0x3A] Responding with temp data
+[20:53:09.20] Zone 1 - Packet CRC: Valid
+[20:53:09.20] Zone 1: PID Output: -220.7 (P=-220.0, I=0.5, D=0.2
+[20:53:09.20] Cycle 9: Master polling all sensor zones...
+[20:53:09.20] Zone 1 - I2C Transaction: [Master] CMD_READ_TEMP to 0x3A
+[20:53:09.20] Zone 1 - I2C Transaction: [Slave 0x3A] Responding with temp data
+[20:53:09.20] Zone 1 - Packet CRC: Valid
+[20:53:09.20] Zone 1: PID Output: -220.7 (P=-220.0, I=0.5, D=0.2
+[20:53:09.20] Cycle 10: Master polling all sensor zones...
+[20:53:09.20] Zone 1 - I2C Transaction: [Master] CMD_READ_TEMP to 0x3A
+[20:53:09.20] Zone 1 - I2C Transaction: [Slave 0x3A] Responding with temp data
+[20:53:09.20] Zone 1 - Packet CRC: Valid
+[20:53:09.20] Zone 1: PID Output: -220.7 (P=-220.0, I=0.5, D=0.2
+[20:53:09.20] Cycle 11: Master polling all sensor zones...
+[20:53:09.20] Zone 1 - I2C Transaction: [Master] CMD_READ_TEMP to 0x3A
+[20:53:09.20] Zone 1 - I2C Transaction: [Slave 0x3A] Responding with temp data
+[20:53:09.20] Zone 1 - Packet CRC: Valid
+[20:53:09.20] Zone 1: PID Output: -220.7 (P=-220.0, I=0.5, D=0.2
+[20:53:09.20] Cycle 12: Master polling all sensor zones...
+[20:53:09.20] Zone 1 - I2C Transaction: [Master] CMD_READ_TEMP to 0x3A
+[20:53:09.20] Zone 1 - I2C Transaction: [Slave 0x3A] Responding with temp data
+[20:53:09.20] Zone 1 - Packet CRC: Valid
+[20:53:09.20] Zone 1: PID Output: -220.7 (P=-220.0, I=0.5, D=0.2
+[20:53:09.20] Cycle 13: Master polling all sensor zones...
+[20:53:09.20] Zone 1 - I2C Transaction: [Master] CMD_READ_TEMP to 0x3A
+[20:53:09.20] Zone 1 - I2C Transaction: [Slave 0x3A] Responding with temp data
+[20:53:09.20] Zone 1 - Packet CRC: Valid
+[20:53:09.20] Zone 1: PID Output: -220.7 (P=-220.0, I=0.5, D=0.2
+[20:53:09.20] Cycle 14: Master polling all sensor zones...
+[20:53:09.20] Zone 1 - I2C Transaction: [Master] CMD_READ_TEMP to 0x3A
+[20:53:09.20] Zone 1 - I2C Transaction: [Slave 0x3A] Responding with temp data
+[20:53:09.20] Zone 1 - Packet CRC: Valid
+[20:53:09.20] Zone 1: PID Output: -220.7 (P=-220.0, I=0.5, D=0.2
+[20:53:09.20] Cycle 15: Master polling all sensor zones...
+[20:53:09.20] Zone 1 - I2C Transaction: [Master] CMD_READ_TEMP to 0x3A
+[20:53:09.20] Zone 1 - I2C Transaction: [Slave 0x3A] Responding with temp data
+[20:53:09.20] Zone 1 - Packet CRC: Valid
+[20:53:09.20] Zone 1: PID Output: -220.7 (P=-220.0, I=0.5, D=0.2
+[20:53:09.38] Zone 1: Heating active (Red LED ON (heating)) 
+[20:53:10.17] Zone 2: Temperature: 23.5 C, Setpoint: 20.0 C 
+[20:53:10.18] Zone 2: PID Output: -200.3 (P=-200.0, I=0.3, D=0.0) 
+[20:53:10.18] Zone 2: Heating active (Red LED ON (heating)) 
+[20:53:11.18] Zone 3: Temperature: 18.0 C, Setpoint: 18.0 C 
+[20:53:11.19] Zone 3: PID Output: -180.8 (P=-180.0, I=0.6, D=0.2) 
+[20:53:11.19] Zone 3: Heating active (Red LED ON (heating)) 
+[20:53:11.20] Avg Response Time: 7.3 ms 
+[20:53:11.21] PID Calculations: 50 
+[20:53:11.22] Alarm Events: 0 
+[20:53:11.23] CPU Load: 27.5% 
+[20:53:11.24] Power Mode: Normal 
