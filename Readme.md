@@ -5,7 +5,7 @@
 This project implements a sophisticated multi-zone temperature control system using STM32F407 microcontrollers. The system consists of a master controller that communicates with multiple temperature sensor nodes via I2C protocol. Each zone maintains its target temperature using a PID control algorithm.
 
 ## System Architecture
-
+<img src="https://github.com/prakalyask/chiptwin-casestudy/blob/main/architecture%20diagram.png" alt="Architecture diagram">
 The system follows a master-slave architecture:
 
 - **Master Controller**: A central STM32F407 MCU that implements PID control algorithms for multiple temperature zones
